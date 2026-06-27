@@ -1,0 +1,9 @@
+# Ignore Google Service Account Key (CRITICAL for security!)
+service-account.json
+
+# Ignore Composer dependencies folder
+vendor/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
